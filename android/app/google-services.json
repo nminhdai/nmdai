@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637678915551",
+    "firebase_url": "https://testauth-f2181-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testauth-f2181",
+    "storage_bucket": "testauth-f2181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637678915551:android:885f3df8595eab57837e6a",
+        "android_client_info": {
+          "package_name": "com.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637678915551-7ejssscone8tgu8mglka3anro7q9fhqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testauth",
+            "certificate_hash": "3da38bdd01d28b5ba44a5c3cb6a99456f2a89169"
+          }
+        },
+        {
+          "client_id": "637678915551-8m7grdvh003v1uj1kt88pf795c7o4osm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCC83ajS3UVp74uE10864i6xfSfV16lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637678915551-8m7grdvh003v1uj1kt88pf795c7o4osm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
